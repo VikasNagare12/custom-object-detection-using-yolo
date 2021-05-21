@@ -16,12 +16,6 @@ colors = np.random.uniform(0, 255, size=(100, 3))
 while True:
     count = 0
     _, img = cap.read()
-    _, img = cap.read()
-    _, img = cap.read()
-    _, img = cap.read()
-    _, img = cap.read()
-    _, img = cap.read()
-    _, img = cap.read()
 
     height, width, _ = img.shape
 
